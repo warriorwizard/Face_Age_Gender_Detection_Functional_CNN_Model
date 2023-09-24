@@ -1,4 +1,4 @@
-# Face_Age_Gender_Detection_Functional_CNN_Model
+# Face_Age_Gender_Detection_Functional_CNN_Model_using_Transfer_Learning
 uses functional model api of keras to build age and gender detection from scratch
 
 ## Using Transfer learning to train the model 
